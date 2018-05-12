@@ -1,0 +1,35 @@
+_repo: Chronicles--1-of-6---The-Historie-of-England--1-of-8---13-From-the-Time-That-It-Was-First-Inh__16496
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holinshed, Raphael
+    aliases:
+    - Holynshed, Raphael
+    - Holinshed, Raphaell
+    - Holinshead, Raphael
+    - Holinshed, Ralph
+    - Holingshed, Raphael
+    gutenberg_agent_id: '5166'
+    url: http://www.gutenberg.org/2009/agents/5166
+    wikipedia: http://en.wikipedia.org/wiki/Raphael_Holinshed
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2005-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16496'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- To 55 B.C.'
+title: "Chronicles (1 of 6): The Historie of England (1 of 8)\r\nFrom the Time That\
+  \ It Was First Inhabited, Vntill the Time That It Was Last Conquered: Wherein the\
+  \ Sundrie Alterations of the State Vnder Forren People Is Declared; And Other Manifold\
+  \ Observations Remembred"
+url: http://www.gutenberg.org/ebooks/16496
